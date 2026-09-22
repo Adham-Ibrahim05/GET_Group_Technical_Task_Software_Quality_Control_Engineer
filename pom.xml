@@ -91,7 +91,7 @@
 
                             <suiteXmlFiles>
 
-                                <suiteXmlFile>testng.xml</suiteXmlFile>
+                                <suiteXmlFile>src/test/resources/Test Suite.xml</suiteXmlFile>
 
                             </suiteXmlFiles>
 
