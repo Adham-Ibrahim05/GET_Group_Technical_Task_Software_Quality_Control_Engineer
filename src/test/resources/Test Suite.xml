@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="SauceDemo Test Suite">
+
+    <test name="SauceDemo Tests">
+
+        <parameter name="browser" value="chrome"/>
+
+        <classes>
+
+            <class name="Test_Scripts.TC01_Login"/>
+
+            <class name="Test_Scripts.TC02_Product_Inventory_Sorting"/>
+
+            <class name="Test_Scripts.TC03_Shopping_Cart"/>
+
+            <class name="Test_Scripts.TC04_E2E_Checkout"/>
+
+            <class name="Test_Scripts.TC05_Logout"/>
+
+            <class name="Test_Scripts.TC06_Cart_State"/>
+
+        </classes>
+
+    </test>
+
+</suite>

@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","927","Add_RemoveProductFromCart","SauceDemo Test Suite","2026-09-23","passed","2026-09-23","Test_Scripts.TC03_Shopping_Cart","SauceDemo Tests","Test_Scripts.TC03_Shopping_Cart","Add_RemoveProductFromCart"
+"","564","InvalidLogin","SauceDemo Test Suite","2026-09-23","passed","2026-09-23","Test_Scripts.TC01_Login","SauceDemo Tests","Test_Scripts.TC01_Login","InvalidLogin"
+"","1434","E2E_Checkout","SauceDemo Test Suite","2026-09-23","passed","2026-09-23","Test_Scripts.TC04_E2E_Checkout","SauceDemo Tests","Test_Scripts.TC04_E2E_Checkout","E2E_Checkout"
+"","1780","Cart_State_During_Navigation","SauceDemo Test Suite","2026-09-23","passed","2026-09-23","Test_Scripts.TC06_Cart_State","SauceDemo Tests","Test_Scripts.TC06_Cart_State","Cart_State_During_Navigation"
+"","546","ValidLogin","SauceDemo Test Suite","2026-09-23","passed","2026-09-23","Test_Scripts.TC01_Login","SauceDemo Tests","Test_Scripts.TC01_Login","ValidLogin"
+"","1169","Logout","SauceDemo Test Suite","2026-09-23","passed","2026-09-23","Test_Scripts.TC05_Logout","SauceDemo Tests","Test_Scripts.TC05_Logout","Logout"
+"","1458","Product_Inventory_Sorting","SauceDemo Test Suite","2026-09-23","passed","2026-09-23","Test_Scripts.TC02_Product_Inventory_Sorting","SauceDemo Tests","Test_Scripts.TC02_Product_Inventory_Sorting","Product_Inventory_Sorting"

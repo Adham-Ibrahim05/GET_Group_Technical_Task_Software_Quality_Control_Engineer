@@ -1,0 +1,17 @@
+[INFO] 23-09-2026 01:06:11 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:06:10 EEST 2026
+[INFO] 23-09-2026 01:06:11 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:26)] - Browser is Opened
+[INFO] 23-09-2026 01:06:13 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:30)] - Page is redirecting to the URL
+[INFO] 23-09-2026 01:06:13 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Setup passed
+[INFO] 23-09-2026 01:06:13 [main] [Listeners.ITestResultMethodListenerClass.onTestStart(ITestResultMethodListenerClass.java:10)] - Test Case InvalidLoginStarted
+[INFO] 23-09-2026 01:06:13 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:06:10 EEST 2026
+[INFO] 23-09-2026 01:06:13 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case InvalidLogin passed
+[INFO] 23-09-2026 01:06:14 [main] [Listeners.ITestResultMethodListenerClass.onTestSuccess(ITestResultMethodListenerClass.java:14)] - Test Case InvalidLoginPassed
+[INFO] 23-09-2026 01:06:14 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:06:10 EEST 2026
+[INFO] 23-09-2026 01:06:14 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Quit passed
+[INFO] 23-09-2026 01:06:14 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:06:10 EEST 2026
+[INFO] 23-09-2026 01:06:14 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:26)] - Browser is Opened
+[INFO] 23-09-2026 01:06:15 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:30)] - Page is redirecting to the URL
+[INFO] 23-09-2026 01:06:15 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Setup passed
+[INFO] 23-09-2026 01:06:15 [main] [Listeners.ITestResultMethodListenerClass.onTestStart(ITestResultMethodListenerClass.java:10)] - Test Case ValidLoginStarted
+[INFO] 23-09-2026 01:06:15 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:06:10 EEST 2026
+[INFO] 23-09-2026 01:06:15 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case ValidLogin passed

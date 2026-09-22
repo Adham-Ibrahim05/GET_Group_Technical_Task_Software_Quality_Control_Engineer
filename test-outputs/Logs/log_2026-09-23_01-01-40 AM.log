@@ -1,0 +1,70 @@
+[INFO] 23-09-2026 01:01:40 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:41 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:26)] - Browser is Opened
+[INFO] 23-09-2026 01:01:42 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:30)] - Page is redirecting to the URL
+[INFO] 23-09-2026 01:01:42 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Setup passed
+[INFO] 23-09-2026 01:01:42 [main] [Listeners.ITestResultMethodListenerClass.onTestStart(ITestResultMethodListenerClass.java:10)] - Test Case InvalidLoginStarted
+[INFO] 23-09-2026 01:01:42 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:43 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case InvalidLogin passed
+[INFO] 23-09-2026 01:01:43 [main] [Listeners.ITestResultMethodListenerClass.onTestSuccess(ITestResultMethodListenerClass.java:14)] - Test Case InvalidLoginPassed
+[INFO] 23-09-2026 01:01:43 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:43 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Quit passed
+[INFO] 23-09-2026 01:01:43 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:43 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:26)] - Browser is Opened
+[INFO] 23-09-2026 01:01:44 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:30)] - Page is redirecting to the URL
+[INFO] 23-09-2026 01:01:44 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Setup passed
+[INFO] 23-09-2026 01:01:44 [main] [Listeners.ITestResultMethodListenerClass.onTestStart(ITestResultMethodListenerClass.java:10)] - Test Case ValidLoginStarted
+[INFO] 23-09-2026 01:01:44 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:45 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case ValidLogin passed
+[INFO] 23-09-2026 01:01:45 [main] [Listeners.ITestResultMethodListenerClass.onTestSuccess(ITestResultMethodListenerClass.java:14)] - Test Case ValidLoginPassed
+[INFO] 23-09-2026 01:01:45 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:45 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Quit passed
+[INFO] 23-09-2026 01:01:45 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:45 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:26)] - Browser is Opened
+[INFO] 23-09-2026 01:01:46 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:30)] - Page is redirecting to the URL
+[INFO] 23-09-2026 01:01:46 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Setup passed
+[INFO] 23-09-2026 01:01:46 [main] [Listeners.ITestResultMethodListenerClass.onTestStart(ITestResultMethodListenerClass.java:10)] - Test Case Product_Inventory_SortingStarted
+[INFO] 23-09-2026 01:01:46 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:47 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Product_Inventory_Sorting passed
+[INFO] 23-09-2026 01:01:47 [main] [Listeners.ITestResultMethodListenerClass.onTestSuccess(ITestResultMethodListenerClass.java:14)] - Test Case Product_Inventory_SortingPassed
+[INFO] 23-09-2026 01:01:47 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:47 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Quit passed
+[INFO] 23-09-2026 01:01:47 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:48 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:26)] - Browser is Opened
+[INFO] 23-09-2026 01:01:49 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:30)] - Page is redirecting to the URL
+[INFO] 23-09-2026 01:01:49 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Setup passed
+[INFO] 23-09-2026 01:01:49 [main] [Listeners.ITestResultMethodListenerClass.onTestStart(ITestResultMethodListenerClass.java:10)] - Test Case Add_RemoveProductFromCartStarted
+[INFO] 23-09-2026 01:01:49 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:50 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Add_RemoveProductFromCart passed
+[INFO] 23-09-2026 01:01:50 [main] [Listeners.ITestResultMethodListenerClass.onTestSuccess(ITestResultMethodListenerClass.java:14)] - Test Case Add_RemoveProductFromCartPassed
+[INFO] 23-09-2026 01:01:50 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:50 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Quit passed
+[INFO] 23-09-2026 01:01:50 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:50 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:26)] - Browser is Opened
+[INFO] 23-09-2026 01:01:51 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:30)] - Page is redirecting to the URL
+[INFO] 23-09-2026 01:01:51 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Setup passed
+[INFO] 23-09-2026 01:01:51 [main] [Listeners.ITestResultMethodListenerClass.onTestStart(ITestResultMethodListenerClass.java:10)] - Test Case E2E_CheckoutStarted
+[INFO] 23-09-2026 01:01:51 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:52 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case E2E_Checkout passed
+[INFO] 23-09-2026 01:01:52 [main] [Listeners.ITestResultMethodListenerClass.onTestSuccess(ITestResultMethodListenerClass.java:14)] - Test Case E2E_CheckoutPassed
+[INFO] 23-09-2026 01:01:52 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:53 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Quit passed
+[INFO] 23-09-2026 01:01:53 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:53 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:26)] - Browser is Opened
+[INFO] 23-09-2026 01:01:54 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:30)] - Page is redirecting to the URL
+[INFO] 23-09-2026 01:01:54 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Setup passed
+[INFO] 23-09-2026 01:01:54 [main] [Listeners.ITestResultMethodListenerClass.onTestStart(ITestResultMethodListenerClass.java:10)] - Test Case LogoutStarted
+[INFO] 23-09-2026 01:01:54 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:55 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Logout passed
+[INFO] 23-09-2026 01:01:55 [main] [Listeners.ITestResultMethodListenerClass.onTestSuccess(ITestResultMethodListenerClass.java:14)] - Test Case LogoutPassed
+[INFO] 23-09-2026 01:01:55 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:55 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Quit passed
+[INFO] 23-09-2026 01:01:55 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:56 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:26)] - Browser is Opened
+[INFO] 23-09-2026 01:01:56 [main] [Test_Scripts.BaseTest.Setup(BaseTest.java:30)] - Page is redirecting to the URL
+[INFO] 23-09-2026 01:01:56 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Setup passed
+[INFO] 23-09-2026 01:01:56 [main] [Listeners.ITestResultMethodListenerClass.onTestStart(ITestResultMethodListenerClass.java:10)] - Test Case Cart_State_During_NavigationStarted
+[INFO] 23-09-2026 01:01:56 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:58 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Cart_State_During_Navigation passed
+[INFO] 23-09-2026 01:01:58 [main] [Listeners.ITestResultMethodListenerClass.onTestSuccess(ITestResultMethodListenerClass.java:14)] - Test Case Cart_State_During_NavigationPassed
+[INFO] 23-09-2026 01:01:58 [main] [Listeners.IInvokedMethodListenerClass.beforeInvocation(IInvokedMethodListenerClass.java:22)] - Test Case Wed Sep 23 01:01:40 EEST 2026
+[INFO] 23-09-2026 01:01:58 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case Quit passed

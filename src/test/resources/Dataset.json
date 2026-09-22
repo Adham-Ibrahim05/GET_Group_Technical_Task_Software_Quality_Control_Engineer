@@ -1,0 +1,17 @@
+{
+  "Valid Username": "standard_user",
+  "Password": "secret_sauce",
+  "Invalid Username": "invalid_user",
+  "Inventory Title": "Products",
+  "Error Message": "Epic sadface: Username and password do not match any user in this service",
+  "Product 1": "Sauce Labs Backpack",
+  "Product 2": "Sauce Labs Bike Light",
+  "Cart Count - 1 Product": 1,
+  "Cart Count - 2 Products": 2,
+  "Cart Count After Remove": 1,
+  "Login Title": "Accepted usernames",
+  "First Name": "Adham",
+  "Last Name": "Ibrahim",
+  "Postal Code": "11511",
+  "Confirmation Message": "Thank you for your order!"
+}
