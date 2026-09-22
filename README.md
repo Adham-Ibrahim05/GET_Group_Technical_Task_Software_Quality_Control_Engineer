@@ -231,6 +231,44 @@ This reduces duplicated synchronization code across Page Objects and helps impro
 
 ---
 
+## Running the Tests
+## Prerequisites
+
+Before running the automation project, make sure the following are installed:
+
+* **JDK 23**
+* **Apache Maven 3.9.8**
+* **Git**
+* **Allure Commandline** — required for generating or opening the Allure report
+
+Verify the Java installation:
+
+```bash
+java -version
+```
+
+Expected:
+
+```text
+java version "23"
+```
+
+Verify Maven:
+
+```bash
+mvn -version
+```
+
+Expected:
+
+```text
+Apache Maven 3.9.8
+Java version: 23
+```
+
+The project uses **Java 23** and **Maven 3.9.8**. Maven automatically downloads the project dependencies defined in `pom.xml` during the build.
+
+
 ## Cross-Browser Execution
 
 The browser can be changed through:
