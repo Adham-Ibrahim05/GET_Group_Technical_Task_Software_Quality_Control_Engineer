@@ -232,6 +232,15 @@ This reduces duplicated synchronization code across Page Objects and helps impro
 ---
 
 ## Running the Tests
+
+To run the automated test suite, execute the following command from the project root directory:
+
+mvn clean test
+
+The Maven Surefire plugin is configured to execute the TestNG suite defined in:
+
+src/test/resources/Test Suite.xml
+
 ## Prerequisites
 
 Before running the automation project, make sure the following are installed:
@@ -268,6 +277,15 @@ Java version: 23
 
 The project uses **Java 23** and **Maven 3.9.8**. Maven automatically downloads the project dependencies defined in `pom.xml` during the build.
 
+## Generate Allure Report
+
+After the tests finish, generate the Allure report:
+
+allure generate allure-results --clean -o allure-report
+
+Open the generated report:
+
+allure open allure-report
 
 ## Cross-Browser Execution
 
